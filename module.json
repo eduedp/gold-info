@@ -1,0 +1,14 @@
+{
+    "disableAutoUpdate": false,
+    "name": "gold-info",
+    "author": "edu",
+    "description": "Show Gold/Hour",
+    "options": {
+        "niceName": "GoldInfo",
+        "settingsVersion": 1,
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js",
+        "reloadable": true
+    },
+    "servers": ["https://raw.githubusercontent.com/eduedp/gold-info/master/"]
+}
